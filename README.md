@@ -1,5 +1,5 @@
 # Tugas-Praktikum-pertemuan-ke-6
-Buat program sederhana yang menampilkan daftar nilai mahasiswa, dengan tampikan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
+Buat program sederhana yang menampilkan daftar nilai mahasiswa, dengan tampikan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data)
 
 Langkah - Langkah:
 
